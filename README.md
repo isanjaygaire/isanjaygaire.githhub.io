@@ -1,2 +1,2 @@
-# isanjaygaire.githhub.io
+# isanjaygaire.github.io
 Portfolio
